@@ -1,27 +1,40 @@
 # titanic
 I challenge Prediction Competition of Titanic: Machine Learning from Disaster with some references.
+
 https://www.kaggle.com/c/titanic
 
 i) "Titanic Data Science Solutions", by Manav Sehgal
+
 https://www.kaggle.com/startupsci/titanic-data-science-solutions
 
+
 ii) "An Interactive Data Science Tutorial", by Helge Bjorland
+
 https://www.kaggle.com/helgejo/an-interactive-data-science-tutorial
 
 iii) "新米データサイエンティストが覚えたての知識を使ってKaggleのタイタニックデータを分析し、投稿してみた！", @s_yaginuma from Qiita
+
 https://qiita.com/s_yaginuma/items/4fa07cd1cde519a7e3d4
 
 
 ## Models I used
 
 'Support Vector Machines', 
+
 'KNN', 
+
 'Logistic Regression',
+
 'Random Forest', 
+
 'Naive Bayes', 
+
 'Perceptron', 
+
 'Stochastic Gradient Decent', 
+
 'Linear SVC', 
+
 'Decision Tree'
 
 
