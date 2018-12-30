@@ -78,6 +78,6 @@ python --version
 
 Python 3.6.5
 
-## If you face trouble...
+## If You're Faced with Some Troubles...
 plz give me comments!
 
